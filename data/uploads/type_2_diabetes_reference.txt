@@ -1,0 +1,124 @@
+TYPE 2 DIABETES — REFERENCE DOCUMENT
+(Compiled for RAG testing purposes from public health sources: WHO, NIDDK, Cleveland Clinic, Healthline, IDF Diabetes Atlas 2024)
+
+===========================================
+1. WHAT IS TYPE 2 DIABETES
+===========================================
+Type 2 diabetes is a long-term (chronic) metabolic condition in which the body either does not produce enough insulin or does not use the insulin it produces effectively. This is known as insulin resistance. Insulin is a hormone made by the pancreas that allows glucose (sugar) from the bloodstream to enter cells, where it is used for energy. When insulin does not work properly, glucose builds up in the blood instead of being absorbed by cells, leading to a condition called hyperglycemia (high blood sugar).
+
+Type 2 diabetes accounts for roughly 90-95% of all diabetes cases worldwide. It typically develops gradually, often over several years, and many people do not notice symptoms until complications appear or the condition is found through a routine blood test.
+
+===========================================
+2. SYMPTOMS
+===========================================
+Symptoms of type 2 diabetes tend to develop slowly and can be mild enough to go unnoticed for a long time. Common symptoms include:
+
+- Increased thirst and a persistent dry mouth
+- Frequent urination, including at night
+- Unexplained weight loss
+- Increased hunger
+- Fatigue and low energy
+- Blurred vision
+- Slow-healing sores, cuts, or wounds
+- Numbness or tingling in the hands or feet
+- Frequent skin infections or, in women, recurring vaginal yeast infections and urinary tract infections
+
+Because symptoms can be subtle, many people live with undiagnosed type 2 diabetes for years before receiving a diagnosis.
+
+===========================================
+3. CAUSES AND RISK FACTORS
+===========================================
+Type 2 diabetes develops from a combination of genetic and lifestyle factors. Known risk factors include:
+
+- Being overweight or having obesity, particularly excess abdominal fat
+- Physical inactivity and a sedentary lifestyle
+- Family history of diabetes (genetic predisposition)
+- Age over 45, although rates are rising among younger adults and adolescents due to increases in childhood obesity
+- High blood pressure
+- Abnormal cholesterol or triglyceride levels
+- History of gestational diabetes during pregnancy
+- Polycystic ovary syndrome (PCOS)
+- Certain ethnic backgrounds carry higher genetic risk
+
+At the biological level, insulin resistance forces the pancreas to work harder to produce more insulin. Over time, the insulin-producing cells in the pancreas can become damaged and lose the ability to produce enough insulin, worsening blood sugar control.
+
+===========================================
+4. DIAGNOSIS
+===========================================
+Type 2 diabetes is diagnosed through blood tests ordered by a healthcare provider. Normal fasting blood glucose is generally between 70-99 mg/dL. A person is generally considered to have diabetes when fasting glucose levels reach 126 mg/dL or higher on more than one test. Other diagnostic tools include the A1C test (which reflects average blood sugar over roughly three months) and the oral glucose tolerance test.
+
+===========================================
+5. TREATMENT AND MANAGEMENT
+===========================================
+There is currently no cure for type 2 diabetes, but it can be effectively managed and its complications delayed or prevented through a combination of lifestyle changes and medication.
+
+Lifestyle management:
+- Following a balanced, portion-controlled diet lower in refined sugars and carbohydrates
+- Regular physical activity — even moderate exercise such as walking has been shown to meaningfully lower blood sugar levels
+- Achieving and maintaining a healthy body weight
+- Quitting smoking
+- Regular monitoring of blood glucose levels
+
+Common medication classes:
+- Metformin: Usually the first medication prescribed. It reduces the amount of glucose produced by the liver and improves the body's sensitivity to insulin.
+- Sulfonylureas: Stimulate the pancreas to produce more insulin.
+- Meglitinides: Work similarly to sulfonylureas but act faster and for a shorter duration.
+- Thiazolidinediones: Improve the body's sensitivity to insulin, though they carry increased cardiovascular risk.
+- DPP-4 inhibitors: Help lower blood sugar with a relatively mild side-effect profile.
+- GLP-1 receptor agonists: Slow digestion and improve blood sugar control; some also support weight loss.
+- SGLT2 inhibitors: Help the kidneys remove excess sugar from the body through urine.
+- Insulin therapy: May eventually be needed if the pancreas can no longer produce sufficient insulin on its own.
+
+In some cases of severe obesity, weight-loss (bariatric) surgery may also be considered as part of treatment.
+
+===========================================
+6. COMPLICATIONS OF POORLY MANAGED DIABETES
+===========================================
+If blood sugar levels remain high over long periods, type 2 diabetes can lead to serious complications, including:
+
+- Cardiovascular disease, including heart attack and stroke
+- Kidney disease, which can progress to kidney failure
+- Diabetic retinopathy, which can cause vision loss or blindness
+- Nerve damage (neuropathy), often causing numbness or pain in the extremities
+- Poor circulation in the limbs, which in severe cases can lead to amputation
+- Slow wound healing and increased risk of infection
+- In rare, severe cases: a dangerous condition called hyperosmolar hyperglycemic state
+
+===========================================
+7. PREVENTION
+===========================================
+Type 2 diabetes can often be prevented or delayed through:
+- Maintaining a healthy body weight
+- Engaging in regular physical activity
+- Eating a balanced diet rich in vegetables, whole grains, and lean proteins
+- Avoiding tobacco use
+- Routine health screenings, particularly for individuals with known risk factors
+
+===========================================
+8. GLOBAL STATISTICS (2024 data, IDF Diabetes Atlas 11th Edition)
+===========================================
+- In 2024, an estimated 589 million adults aged 20-79 worldwide were living with diabetes — roughly 1 in every 9 adults.
+- This number is projected to rise to 853 million by 2050 — approximately 1 in 8 adults.
+- Diabetes caused an estimated 3.4 million deaths in 2024 — about one death every 9 seconds.
+- Around 43% of adults with diabetes (approximately 252 million people) are undiagnosed.
+- Nearly 90% of undiagnosed cases occur in low- and middle-income countries.
+- About 81% of all adults with diabetes live in low- and middle-income countries.
+- Diabetes prevalence is slightly higher in men (11.55%) than in women (10.68%), and higher in urban areas (12.26%) than rural areas (9.23%).
+- Global health expenditure attributed to diabetes was estimated at over USD 1 trillion in 2024, a 338% increase over the previous 17 years.
+- Diabetes was linked to more than 2 million deaths from kidney disease caused by diabetes in 2021, and contributed to roughly 11% of global cardiovascular deaths.
+
+===========================================
+9. TYPE 1 VS. TYPE 2 DIABETES (Quick Comparison)
+===========================================
+- Type 1 diabetes is an autoimmune condition in which the body's immune system attacks and destroys insulin-producing cells in the pancreas. It usually develops in childhood or young adulthood and requires lifelong insulin therapy from diagnosis.
+- Type 2 diabetes develops mainly due to insulin resistance combined with a relative insulin deficiency, is more strongly linked to lifestyle and genetic risk factors, most commonly develops in adulthood (though increasingly in younger people), and can sometimes be managed initially without insulin, through lifestyle changes and oral medications.
+
+===========================================
+SOURCES (for further reading — content above has been independently written/paraphrased, not copied)
+===========================================
+- World Health Organization (WHO) — Diabetes Fact Sheet: https://www.who.int/news-room/fact-sheets/detail/diabetes
+- NIDDK (U.S. National Institutes of Health) — Type 2 Diabetes: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes
+- Cleveland Clinic — Type 2 Diabetes: https://my.clevelandclinic.org/health/diseases/21501-type-2-diabetes
+- Healthline — Type 2 Diabetes: https://www.healthline.com/health/type-2-diabetes
+- International Diabetes Federation — IDF Diabetes Atlas, 11th Edition (2024 data): https://diabetesatlas.org/
+- Wikipedia — Type 2 diabetes: https://en.wikipedia.org/wiki/Type_2_diabetes
